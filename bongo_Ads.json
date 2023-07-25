@@ -3,24 +3,7 @@
 		{
 			"select_main_ads": "ADMOB",
 			"select_backup_ads": "APPLOVIN-M",
-			"main_ads_banner": "ca-app-pub-4711512535160276/2838208640",
-			"main_ads_intertitial": "ca-app-pub-4711512535160276/3551953690",
-			"main_ads_intertitial_2": "ca-app-pub-4711512535160276/6453271590",
-			"main_ads_natives": "ca-app-pub-4711512535160276/9656598553",
-			"backup_ads_natives": "6d7eac001da92df9",
-			"backup_ads_banner": "36e740d7a9831814",
-			"backup_ads_intertitial": "a4932424c61747a8",
-			"backup_ads_intertitial_2": "2db75b76b3afaa2e",
-			"open_ads_admob": "ca-app-pub-4711512535160276/5959877573",
-            "interval_intertitial":1,
-			"initialize_sdk": "123456",
-			"initialize_sdk_backup_ads": "123456",
-			"high_paying_keyword_1": "insurance",
-			"high_paying_keyword_2": "forex",
-			"high_paying_keyword_3": "credit",
-			"high_paying_keyword_4": "travel",
-			"high_paying_keyword_5": "cars"
-	
+			
 		}
 	]
 }
